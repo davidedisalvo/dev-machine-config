@@ -26,22 +26,17 @@ mas "Trello", id: 1278508951
 
 # Editors / IDEs
 
-cask "atom"
 cask "visual-studio-code"
-cask "jetbrains-toolbox"
 
 
 # Developer tools
 
 brew "httpie" # Command-line HTTP client: https://httpie.org
-cask "postman" # API development environment: https://www.getpostman.com
-cask "robo-3t" # MongoDB GUI client: https://robomongo.org
 
 
 # Browsers
 
 cask "firefox"
-cask "google-chrome"
 
 
 # JavaScript
@@ -73,5 +68,3 @@ cask "zeplin"
 # Virtualisation
 
 cask "virtualbox"
-cask "parallels-desktop"
-cask "vmware-fusion"
